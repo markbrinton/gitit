@@ -1,2 +1,6 @@
 Added in feature branch.
+<<<<<<< Updated upstream
 In feature, outide of stash.
+=======
+Testing stahs with some edits that I might throw away.
+>>>>>>> Stashed changes
