@@ -1,1 +1,2 @@
 Added in feature branch.
+In feature, outide of stash.
